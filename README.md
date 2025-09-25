@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Bappa Kundu  
 
-<!--
-**bappakn22/bappakn22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer | Cloud Enthusiast | Automation Advocate**  
 
-Here are some ideas to get you started:
+I am a passionate **DevOps Engineer** with **5+ years of experience** in designing, implementing, and managing cloud-native solutions.  
+I thrive in environments that encourage **automation, collaboration, and continuous improvement**.  
+I have hands-on experience in building, automating, and managing cloud-native infrastructure.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+
+- ☁️ **Cloud:** Azure  
+- ⚙️ **Infrastructure as Code (IaC):** Terraform  
+- 🔄 **CI/CD Pipelines:** Azure DevOps, GitHub Actions  
+- 🐳 **Containerization:** Docker  
+- ☸️ **Orchestration:** Kubernetes  
+- 🐧 **OS & Scripting:** Linux, Bash  
+- 📦 **Version Control:** Git & GitHub  
+
+---
+
+## 📫 Connect With Me  
+
+- 📧 Email: **bappakn03@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/bappa-kundu-3223a5354](https://www.linkedin.com/in/bappa-kundu-3223a5354)  
+- 🌐 GitHub: [github.com/bappakn03](https://github.com/bappakn03)  
+
+---
+
+⭐️ *Always exploring new DevOps tools and practices to improve automation and efficiency!*  
