@@ -1,31 +1,56 @@
-# 👋 Hi, I'm Bappa Kundu  
+<h1 align="center">Hi 👋, I'm Bappa Kundu</h1>
+<h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
-🚀 **DevOps Engineer | Cloud Enthusiast | Automation Advocate**  
-
-I am a passionate **DevOps Engineer** with **5+ years of experience** in designing, implementing, and managing cloud-native solutions.  
-I thrive in environments that encourage **automation, collaboration, and continuous improvement**.  
-I have hands-on experience in building, automating, and managing cloud-native infrastructure.  
-
----
-
-## 🔧 Skills & Tools
-
-- ☁️ **Cloud:** Azure  
-- ⚙️ **Infrastructure as Code (IaC):** Terraform  
-- 🔄 **CI/CD Pipelines:** Azure DevOps, GitHub Actions  
-- 🐳 **Containerization:** Docker  
-- ☸️ **Orchestration:** Kubernetes  
-- 🐧 **OS & Scripting:** Linux, Bash  
-- 📦 **Version Control:** Git & GitHub  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bappakn03&label=Profile%20views&color=0e75b6&style=flat" alt="bappakn03" />
+</p>
 
 ---
 
-## 📫 Connect With Me  
+🧑‍💻 **About Me**
 
-- 📧 Email: **bappakn03@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/bappa-kundu-3223a5354](https://www.linkedin.com/in/bappa-kundu-3223a5354)  
-- 🌐 GitHub: [github.com/bappakn03](https://github.com/bappakn03)  
+I’m **Bappa Kundu**, a passionate **DevOps Engineer** with **5+ years of experience** in building, automating, and managing cloud-native infrastructure.  
+I thrive in environments that encourage **automation**, **collaboration**, and **continuous improvement**.
+
+- ☁️ Working on scalable infrastructure using **Azure Cloud** and **Terraform**
+- 🔁 Building secure and efficient **CI/CD pipelines** using **GitHub Actions** and **Azure DevOps**
+- 🐳 Deploying microservices with **Docker** and **Kubernetes**
+- 🐧 Automating tasks on **Linux** using **Bash scripting**
+- 📊 Monitoring infrastructure and apps for performance and reliability
+- 🛠️ A firm believer in **"Infrastructure as Code"** and **DevOps best practices**
 
 ---
 
-⭐️ *Always exploring new DevOps tools and practices to improve automation and efficiency!*  
+🛠️ **Tech Stack**
+
+| Category | Tools & Technologies |
+|----------|----------------------|
+| ☁️ Cloud | Azure |
+| ⚙️ IaC   | Terraform |
+| 🔄 CI/CD | GitHub Actions, Azure DevOps |
+| 🐳 Containers | Docker, Kubernetes |
+| 🐧 OS & Scripting | Linux, Bash |
+| 📁 Version Control | Git, GitHub |
+
+---
+
+📫 **Let's Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bappa-kundu-3223a5354)  
+📧 **Email:** bappakn03@gmail.com  
+
+---
+
+📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bappakn03&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bappakn03&theme=github-dark" alt="GitHub Streak" />
+</p>
+
+---
+
+🔁 *“Automate it till you make it.”*
