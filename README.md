@@ -41,16 +41,5 @@ I thrive in environments that encourage **automation**, **collaboration**, and *
 
 ---
 
-📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bappakn03&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bappakn03&theme=github-dark" alt="GitHub Streak" />
-</p>
-
----
 
 🔁 *“Automate it till you make it.”*
